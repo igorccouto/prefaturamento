@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/igorccouto/prefaturamento)
+
 # Pre-Faturamento
 
 Cria a Planilha de Pré-Faturamento mensal de forma automática. O arquivo de entrada deve ser o Relatório 5.1 do Remedy.
